@@ -3,18 +3,21 @@
   "id": 1,
   "name": "Product 1",
   "description": "Description of Product 1",
+  "imagen": "https://oneiconn.vtexassets.com/arquivos/ids/185413/COCA-COLA-ORIGINAL-PET-3L.jpg?v=638061145755000000",
   "price": 19.99
 },
  {
   "id": 2,
   "name": "Product 2",
   "description": "Description of Product 2",
+  "imagen": "https://oneiconn.vtexassets.com/arquivos/ids/185413/COCA-COLA-ORIGINAL-PET-3L.jpg?v=638061145755000000",
   "price": 19.99
 },
   {
   "id": 3,
   "name": "Product 3",
   "description": "Description of Product 3",
+  "imagen": "https://oneiconn.vtexassets.com/arquivos/ids/185413/COCA-COLA-ORIGINAL-PET-3L.jpg?v=638061145755000000",
   "price": 19.99
 }
 ]
