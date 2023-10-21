@@ -1,8 +1,8 @@
 [
   {
   "id": 1,
-  "name": "Product 1",
-  "description": "Description of Product 1",
+  "name": "Coca-cola",
+  "description": "Botella de coca-cola 3lts",
   "imagen": "https://oneiconn.vtexassets.com/arquivos/ids/185413/COCA-COLA-ORIGINAL-PET-3L.jpg?v=638061145755000000",
   "price": "19.99"
 },
