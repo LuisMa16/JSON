@@ -11,13 +11,13 @@
   "name": "Caja Pepsi",
   "description": "6 pack de pepsi 335 ml c/u",
   "imagen": "https://m.media-amazon.com/images/I/91aCDvpAjBL.jpg",
-  "price": "29.99"
+  "price": "299.99"
 },
   {
   "id": 3,
-  "name": "Product 3",
-  "description": "Description of Product 3",
-  "imagen": "https://oneiconn.vtexassets.com/arquivos/ids/185413/COCA-COLA-ORIGINAL-PET-3L.jpg?v=638061145755000000",
-  "price": "19.99"
+  "name": "Mountain Dew",
+  "description": "Mtn Dew, Major Melon, latas de 12 onzas (paquete de 12)",
+  "imagen": "https://m.media-amazon.com/images/I/81WmSefYcCL._AC_SL1500_.jpg",
+  "price": "550.00"
 }
 ]
